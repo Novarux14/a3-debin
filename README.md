@@ -2,7 +2,11 @@
 
 Debin is a Windows desktop tool for inspecting Arma 3 P3D models, viewing model metadata, previewing LOD geometry, and reconstructing useful `model.cfg` information from ODOL files.
 
-> The output may be incorrect or in some cases corrupt - please only use this for a tool adn learning experience.
+> The output may be incorrect or in some cases corrupt - please only use this for a tool and learning experience.
+
+
+
+> Warning: This software is provided entirely as-is, without warranties or guarantees of any kind. Use it at your own risk.
 
 ## Features
 
